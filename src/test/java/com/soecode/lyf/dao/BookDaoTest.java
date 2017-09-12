@@ -9,7 +9,7 @@ import com.soecode.lyf.BaseTest;
 import com.soecode.lyf.entity.Book;
 
 public class BookDaoTest extends BaseTest {
-
+//修改测试
 	@Autowired
 	private BookDao bookDao;
 
